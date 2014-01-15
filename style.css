@@ -1,0 +1,39 @@
+ul{
+	list-style-type: none;
+}
+ul li {
+	width:126px;
+	height:137px;
+	border:0px solid red;
+	display: inline-block;
+	overflow: hidden;
+}
+.alig {
+	float:right;
+	margin-right: 2px;
+}
+ul li span{
+	font-size: 16px;
+	font-family: sans-serif;
+	display:table-cell;
+}
+ul li > img {
+}
+.green{
+	color:#15AA15;
+}
+.red{
+	color:#FF0000;
+}
+.yellow{
+	color:#FFE600;
+}
+.orange{
+	color: #FF9900;
+}
+.gray {
+	color:#767676;
+}
+.blue{
+	color:#2181E2;
+}
